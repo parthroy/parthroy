@@ -92,7 +92,7 @@
 
 Want to read more? [Check out all the blogs](https://blog.i2i-info.com)
 
-## 📈 Stats Github Profile 1
+## 📈 Stats Github Profile
 
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=royparth20&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
@@ -101,8 +101,6 @@ Want to read more? [Check out all the blogs](https://blog.i2i-info.com)
     <br />
     <img src="https://visitor-badge.laobi.icu/badge?page_id=royparth20.royparth20" alt="visitors">
 </div>
-
-## 📈 Stats Github Profile 2
 
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=parthroy&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
