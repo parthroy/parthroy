@@ -11,7 +11,7 @@
 ## 🏅 Achievements
 
 -   🏆 **Top Rated** at _Upwork_ (April 2022)
--   ⏫ **Rising Talent** at _Upwork_ (Jan 2021)
+-   ⏫ **Rising Talent** at _Upwork_ (Jan 2022)
 -   🤝 **DSC (Google Developer Student Club)** Core Team Member of SCET Surat
 -   🤝 **Representative of Training & Placement** of Computer Engineering Department SCET Surat
 -   🤝 **Core Team Member of Coding Club** Computer Engineering department of SCET Surat
