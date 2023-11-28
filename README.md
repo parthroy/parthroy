@@ -4,7 +4,7 @@
 
 🎓 I am Parth Roy, a **Full Stack Developer** (specializing in **React Applications**) and a **Top Rated** [**Freelancer**](https://www.upwork.com/freelancers/~019c81064069d2076f) on _Upwork_. I done my Bachelor in **Computer Engineering** in April - 2020.
 
-👨‍💻 I am really enthusiastic about learning new technology. In 2021, I learned **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, **Micro-Frontend Architecture**. I got started with [**Freelancing**](https://www.upwork.com/freelancers/~019c81064069d2076f) and [**Blogging**](https://blog.i2i-info.com) quite recently and made a name for my company.
+👨‍💻 I am really enthusiastic about learning new technology. In 2021, I learned **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, **Micro-Frontend Architecture**. I got started with [**Freelancing**](https://www.upwork.com/freelancers/~019c81064069d2076f) quite recently and made a name for my company.
 
 ✈️ I love **traveling** too.
 
@@ -82,15 +82,6 @@
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
-## 📝 Top Blog Posts
-
--   [React Tutorial – Learn React in 5 hours](https://blog.i2i-info.com/category/education/react-tutorial)
--   [Learn VueJS from scratch in 2 hours](https://blog.i2i-info.com/category/education/vuejs-tutorial)
--   [Build Your App With Metaverse](https://blog.i2i-info.com/technology/build-your-app-with-metaverse)
--   [What is Web3? Proper explanation about Web3](https://blog.i2i-info.com/technology/what-is-web3-proper-explanation-about-web3)
--   [What is Blockchain Technology?](https://blog.i2i-info.com/technology/blockchain/what-is-blockchain-technology)
-
-Want to read more? [Check out all the blogs](https://blog.i2i-info.com)
 
 ## 📈 Stats Github Profile
 
