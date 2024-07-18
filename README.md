@@ -2,11 +2,14 @@
 
 ## 🚀 About Me
 
-🎓 I am Parth Roy, a **Full Stack Developer** (specializing in **React Applications**) and a **Top Rated** [**Freelancer**](https://www.upwork.com/freelancers/~019c81064069d2076f) on _Upwork_. I done my Bachelor in **Computer Engineering** in April - 2020.
+🎓 Parth Roy - Expert Full Stack Developer & Top Rated Freelancer on Upwork
 
-👨‍💻 I am really enthusiastic about learning new technology. In 2021, I learned **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, **Micro-Frontend Architecture**. I got started with [**Freelancing**](https://www.upwork.com/freelancers/~019c81064069d2076f) quite recently and made a name for my company.
+👨‍💻 I hold a Bachelor's degree in Computer Engineering (April 2020) and have established myself as a leading Full Stack Developer, specializing in advanced React applications. My expertise spans a wide array of cutting-edge technologies including Next.js, Progressive Web Apps (PWA), GraphQL, and Micro-Frontend Architecture, all of which I mastered in 2021.
 
-✈️ I love **traveling** too.
+💼 As a Top Rated Freelancer on Upwork, I have built a stellar reputation for delivering high-quality, innovative solutions. My dedication to continuous learning and my passion for adopting new technologies have been instrumental in the growth and success of my freelancing career and my company.
+
+✈️ Beyond coding, I have a keen interest in traveling, constantly seeking new experiences and inspiration from around the globe.
+
 
 ## 🏅 Achievements
 
