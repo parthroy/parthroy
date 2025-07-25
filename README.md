@@ -1,16 +1,18 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
+# Hi there! 👋🚀 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
+
+http://googleusercontent.com/image_generation_content/1
 
 ## 🚀 About Me
 
-🎓 Parth Roy - Expert Full Stack & AI Developer
+🎓 Parth Roy - Expert Full Stack & AI Developer & Top Rated Freelancer on Upwork 🌟
 
-👨‍💻 I hold a Bachelor's degree in Computer Engineering (April 2020) and have established myself as a leading Full Stack Developer, specializing in advanced React applications. My expertise spans a wide array of cutting-edge technologies including Next.js, Progressive Web Apps (PWA), GraphQL, and Micro-Frontend Architecture, all of which I mastered in 2021.
+👨‍💻 I hold a Bachelor's degree in Computer Engineering (April 2020) and have established myself as a leading Full Stack Developer, specializing in advanced React applications. My expertise spans a wide array of cutting-edge technologies including Next.js ⚛️, Progressive Web Apps (PWA) 📱, GraphQL 💡, and Micro-Frontend Architecture 🏗️, all of which I mastered in 2021.
 
-Furthermore, I have developed significant expertise in the field of Artificial Intelligence, with a focus on **AI Voice Agents**, **AI Visual Agents**, **AI Chatbots**, and **AI Model Development** (including STT, TTS, and LLM). I am passionate about leveraging AI to create intelligent and innovative solutions.
+Furthermore, I have developed significant expertise in the field of Artificial Intelligence 🧠, with a focus on **AI Voice Agents** 🗣️, **AI Visual Agents** 👁️, **AI Chatbots** 💬, and **AI Model Development** (including STT, TTS, and LLM) 🤖. I am passionate about leveraging AI to create intelligent and innovative solutions that push boundaries! ✨
 
-💼 As a Top Rated Freelancer on Upwork, I have built a stellar reputation for delivering high-quality, innovative solutions. My dedication to continuous learning and my passion for adopting new technologies, including the rapidly evolving AI landscape, have been instrumental in the growth and success of my freelancing career and my company.
+💼 As a Top Rated Freelancer on Upwork, I have built a stellar reputation for delivering high-quality, innovative solutions. My dedication to continuous learning and my passion for adopting new technologies, including the rapidly evolving AI landscape, have been instrumental in the growth and success of my freelancing career and my company. 📈
 
-✈️ Beyond coding, I have a keen interest in traveling, constantly seeking new experiences and inspiration from around the globe.
+✈️ Beyond coding, I have a keen interest in traveling 🌍, constantly seeking new experiences and inspiration from around the globe. 🗺️
 
 
 ## 🏅 Achievements
@@ -28,14 +30,14 @@ Furthermore, I have developed significant expertise in the field of Artificial I
 
 ## 🛠️ Skills
 
-### Languages
+### Languages 🗣️
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-### Front-End Development
+### Front-End Development 🖥️✨
 
 ![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -55,14 +57,14 @@ Furthermore, I have developed significant expertise in the field of Artificial I
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 
-### Cross Platform Development
+### Cross Platform Development 🌐
 
 ![reactnative](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&label=reactnative&message=reactnative)
 ![flutter](https://img.shields.io/badge/Flutter-28B6F6?style=for-the-badge&logo=flutter&logoColor=white)
 ![electron](https://img.shields.io/badge/Electron-2C2E3B?style=for-the-badge&logo=electron&logoColor=white)
 
 ---
-### Artificial Intelligence & Machine Learning
+### Artificial Intelligence & Machine Learning 🧠🤖
 
 ![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -74,26 +76,39 @@ Furthermore, I have developed significant expertise in the field of Artificial I
 ![gpt](https://img.shields.io/badge/GPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
-### Backend as a Service (BaaS)
+### Backend as a Service (BaaS) ☁️
 
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-### Design Tools
+### Design Tools 🎨🖌️
 
 ![adobe-xd](https://img.shields.io/badge/adobe_xd-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 ![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-### Testing
+### Testing 🧪✅
 
 ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## 🖥️ Workspace Setup
+---
+## 🚀 Recent Projects
+
+Here are some of my recent projects where I've applied my expertise:
+
+* **QuickSmart.ai** 🚀
+* **iCalls.ai** 📞
+* **TalkingBot.ai** 💬
+* **Gita.iCalls.ai** 🙏
+* **CareTalk.ai** 💖
+
+---
+
+## 🖥️ Workspace Setup 💻
 
 ![i5-8th-gen](https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![gtx-1060](https://img.shields.io/badge/NVIDIA-GTX_1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
@@ -101,7 +116,7 @@ Furthermore, I have developed significant expertise in the field of Artificial I
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 
-## 📈 Stats Github Profile
+## 📈 Stats Github Profile 📊
 
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=parthroy&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
@@ -109,7 +124,7 @@ Furthermore, I have developed significant expertise in the field of Artificial I
     <img src="https://visitor-badge.laobi.icu/badge?page_id=parthroy.parthroy" alt="visitors">
 </div>
 
-## 🔗 Links
+## 🔗 Links 🔗
 
 [![upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~019c81064069d2076f)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/royparth/)
