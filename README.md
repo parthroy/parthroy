@@ -17,13 +17,21 @@ Furthermore, I have developed significant expertise in the field of Artificial I
 ## 🏅 Achievements
 
 -   🏆 **Top Rated** at _Upwork_ (April 2022)
+
 -   ⏫ **Rising Talent** at _Upwork_ (Jan 2022)
+
 -   🤝 **DSC (Google Developer Student Club)** Core Team Member of SCET Surat
+
 -   🤝 **Representative of Training & Placement** of Computer Engineering Department SCET Surat
+
 -   🤝 **Core Team Member of Coding Club** Computer Engineering department of SCET Surat
+
 -   🥇 **Winner of Coding Competition** in Avishkar Updates2k18 (2018)
+
 -   🥇 **Winner of Coding Competition** in Code Sangram Updates2k19 (2019)
+
 -   🥈 **1st Runner up at Coding Competition** in Web-a-Thon GTU techfest (2019)
+
 -   🥈 **1st Runner up at Coding Competition** in Master's App GTU techfest(2019)
 
 
@@ -109,10 +117,11 @@ Here are some of my recent projects where I've applied my expertise:
 
 ## 🖥️ Workspace Setup 💻
 
-![i5-8th-gen](https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![gtx-1060](https://img.shields.io/badge/NVIDIA-GTX_1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Intel Core i9](https://img.shields.io/badge/Intel_Core_i9-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![High Performance GPU](https://img.shields.io/badge/High_Performance_GPU-FF4D4D?style=for-the-badge&logo=nvidia&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+
 
 
 ## 📈 Stats Github Profile 📊
