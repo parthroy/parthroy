@@ -2,26 +2,28 @@
 
 ## 🚀 About Me
 
-🎓 Parth Roy - Expert Full Stack Developer & Top Rated Freelancer on Upwork
+🎓 Parth Roy - Expert Full Stack & AI Developer
 
 👨‍💻 I hold a Bachelor's degree in Computer Engineering (April 2020) and have established myself as a leading Full Stack Developer, specializing in advanced React applications. My expertise spans a wide array of cutting-edge technologies including Next.js, Progressive Web Apps (PWA), GraphQL, and Micro-Frontend Architecture, all of which I mastered in 2021.
 
-💼 As a Top Rated Freelancer on Upwork, I have built a stellar reputation for delivering high-quality, innovative solutions. My dedication to continuous learning and my passion for adopting new technologies have been instrumental in the growth and success of my freelancing career and my company.
+Furthermore, I have developed significant expertise in the field of Artificial Intelligence, with a focus on **AI Voice Agents**, **AI Visual Agents**, **AI Chatbots**, and **AI Model Development** (including STT, TTS, and LLM). I am passionate about leveraging AI to create intelligent and innovative solutions.
+
+💼 As a Top Rated Freelancer on Upwork, I have built a stellar reputation for delivering high-quality, innovative solutions. My dedication to continuous learning and my passion for adopting new technologies, including the rapidly evolving AI landscape, have been instrumental in the growth and success of my freelancing career and my company.
 
 ✈️ Beyond coding, I have a keen interest in traveling, constantly seeking new experiences and inspiration from around the globe.
 
 
 ## 🏅 Achievements
 
--   🏆 **Top Rated** at _Upwork_ (April 2022)
--   ⏫ **Rising Talent** at _Upwork_ (Jan 2022)
--   🤝 **DSC (Google Developer Student Club)** Core Team Member of SCET Surat
--   🤝 **Representative of Training & Placement** of Computer Engineering Department SCET Surat
--   🤝 **Core Team Member of Coding Club** Computer Engineering department of SCET Surat
--   🥇 **Winner of Coding Competition** in Avishkar Updates2k18 (2018)
--   🥇 **Winner of Coding Competition** in Code Sangram Updates2k19 (2019)
--   🥈 **1st Runner up at Coding Competition** in Web-a-Thon GTU techfest (2019)
--   🥈 **1st Runner up at Coding Competition** in Master's App GTU techfest(2019)
+-   🏆 **Top Rated** at _Upwork_ (April 2022)
+-   ⏫ **Rising Talent** at _Upwork_ (Jan 2022)
+-   🤝 **DSC (Google Developer Student Club)** Core Team Member of SCET Surat
+-   🤝 **Representative of Training & Placement** of Computer Engineering Department SCET Surat
+-   🤝 **Core Team Member of Coding Club** Computer Engineering department of SCET Surat
+-   🥇 **Winner of Coding Competition** in Avishkar Updates2k18 (2018)
+-   🥇 **Winner of Coding Competition** in Code Sangram Updates2k19 (2019)
+-   🥈 **1st Runner up at Coding Competition** in Web-a-Thon GTU techfest (2019)
+-   🥈 **1st Runner up at Coding Competition** in Master's App GTU techfest(2019)
 
 
 ## 🛠️ Skills
@@ -59,6 +61,19 @@
 ![flutter](https://img.shields.io/badge/Flutter-28B6F6?style=for-the-badge&logo=flutter&logoColor=white)
 ![electron](https://img.shields.io/badge/Electron-2C2E3B?style=for-the-badge&logo=electron&logoColor=white)
 
+---
+### Artificial Intelligence & Machine Learning
+
+![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![huggingface](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![nlp](https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![cv](https://img.shields.io/badge/Computer%20Vision-FF5722?style=for-the-badge&logo=opencv&logoColor=white)
+![openai](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![gpt](https://img.shields.io/badge/GPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+
+---
 ### Backend as a Service (BaaS)
 
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
@@ -89,9 +104,9 @@
 ## 📈 Stats Github Profile
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=parthroy&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
-    <br />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=parthroy.parthroy" alt="visitors">
+    <img src="https://github-profile-trophy.vercel.app/?username=parthroy&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+    <br />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=parthroy.parthroy" alt="visitors">
 </div>
 
 ## 🔗 Links
