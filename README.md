@@ -201,9 +201,9 @@ A full-scale **AI-powered omnichannel communication platform** serving **10K+ ac
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parthroy&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=parthroy&theme=github_dark" height="170" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthroy&layout=compact&theme=dark&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parthroy&theme=github_dark" height="170" alt="Top Languages" />
   <br /><br />
   <img src="https://streak-stats.demolab.com?user=parthroy&theme=dark&hide_border=true" alt="GitHub Streak" />
   <br /><br />
