@@ -1,36 +1,44 @@
-# Hi there! 🚀 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
+<h1 align="center">Hi there, I'm Parth Roy! 🚀 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px"></h1>
+
+<h3 align="center">End-to-End AI Product Developer 🧠 | 7+ Years Experience</h3>
+<p align="center">Real-time Conversational AI &amp; WebRTC Solutions 💬🌐 &nbsp;|&nbsp; Top Rated Freelancer on Upwork 🌟 &nbsp;|&nbsp; Founder @ <a href="https://sct.technology">SCT Technology</a></p>
+
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/~019c81064069d2076f"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/royparth/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+  <a href="https://github.com/parthroy"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" /></a>
+  <a href="https://medium.com/@idea.to.implementation"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="mailto:royparth94@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+  <a href="https://omnikit.live"><img src="https://img.shields.io/badge/OmniKit.live-FF4F00?style=for-the-badge&logo=rocket&logoColor=white" /></a>
+</p>
+
+---
 
 ## 🚀 About Me
-
-### 🎓 Parth Roy - End-to-End AI Product Developer 🧠 | 7+ Years Experience | Real-time Conversational AI & WebRTC Solutions 💬🌐 | Top Rated Freelancer on Upwork 🌟
 
 👨‍💻 I hold a Bachelor's degree in Computer Engineering (April 2020) and have **7+ years of hands-on experience** building production-grade Full Stack and AI-powered products. I specialize in **Real-time Conversational AI**, **WebRTC Solutions**, and **End-to-End AI Product Development** — from ideation and architecture to deployment at scale. My expertise spans Next.js ⚛️, Progressive Web Apps (PWA) 📱, GraphQL 💡, and Micro-Frontend Architecture 🏗️.
 
 🤖 I am deeply focused on **AI Voice Agents** 🗣️, **AI Visual Agents** 👁️, **AI Chatbots** 💬, **LLM Fine-tuning**, and **AI Model Development** (STT, TTS, LLM) — leveraging cutting-edge tools like LangChain, LiveKit, VAPI, ElevenLabs, Whisper, OpenAI, Anthropic Claude, and Groq to build intelligent, real-time conversational systems. ✨
 
-💼 As a **Top Rated Freelancer on Upwork** and founder of **SCT Technology**, I have a stellar track record of delivering high-quality, innovative solutions to global clients across startups, mid-size businesses, and enterprises. My passion for continuous learning and rapidly evolving AI landscape drives the success of my company. 📈
+💼 As a **Top Rated Freelancer on Upwork** and founder of **[SCT Technology](https://sct.technology)**, I have a stellar track record of delivering high-quality, innovative solutions to global clients across startups, mid-size businesses, and enterprises. My passion for continuous learning and the rapidly evolving AI landscape drives the success of my company. 📈
 
 ✈️ Beyond coding, I have a keen interest in traveling 🌍, constantly seeking new experiences and inspiration from around the globe. 🗺️
 
+---
+
 ## 🏅 Achievements
 
--   🏆 **Top Rated** at _Upwork_ (April 2022)
+- 🏆 **Top Rated** at _Upwork_ (April 2022)
+- ⏫ **Rising Talent** at _Upwork_ (Jan 2022)
+- 🤝 **DSC (Google Developer Student Club)** Core Team Member of SCET Surat
+- 🤝 **Representative of Training & Placement** of Computer Engineering Department SCET Surat
+- 🤝 **Core Team Member of Coding Club** Computer Engineering department of SCET Surat
+- 🥇 **Winner of Coding Competition** in Avishkar Updates2k18 (2018)
+- 🥇 **Winner of Coding Competition** in Code Sangram Updates2k19 (2019)
+- 🥈 **1st Runner up at Coding Competition** in Web-a-Thon GTU techfest (2019)
+- 🥈 **1st Runner up at Coding Competition** in Master's App GTU techfest (2019)
 
--   ⏫ **Rising Talent** at _Upwork_ (Jan 2022)
-
--   🤝 **DSC (Google Developer Student Club)** Core Team Member of SCET Surat
-
--   🤝 **Representative of Training & Placement** of Computer Engineering Department SCET Surat
-
--   🤝 **Core Team Member of Coding Club** Computer Engineering department of SCET Surat
-
--   🥇 **Winner of Coding Competition** in Avishkar Updates2k18 (2018)
-
--   🥇 **Winner of Coding Competition** in Code Sangram Updates2k19 (2019)
-
--   🥈 **1st Runner up at Coding Competition** in Web-a-Thon GTU techfest (2019)
-
--   🥈 **1st Runner up at Coding Competition** in Master's App GTU techfest(2019)
+---
 
 ## 🛠️ Skills
 
@@ -39,6 +47,8 @@
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
 
 ### Front-End Development 🖥️✨
 
@@ -58,6 +68,8 @@
 ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+---
 
 ### Cross Platform Development 🌐
 
@@ -130,11 +142,15 @@
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
+---
+
 ### Design Tools 🎨🖌️
 
 ![adobe-xd](https://img.shields.io/badge/adobe_xd-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 ![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+---
 
 ### Testing 🧪✅
 
@@ -144,13 +160,11 @@
 
 ---
 
-## 🚀 Recent Projects
-
-Here are some of my recent projects where I've applied my expertise:
+## 🚀 Featured Projects
 
 ### 🌐 [OmniKit.live](https://omnikit.live/) — Omnichannel Communication Platform
 
-> Built end-to-end by me | Powered by **SCT Technology**
+> Built end-to-end by me &nbsp;|&nbsp; Powered by **[SCT Technology](https://sct.technology)**
 
 A full-scale **AI-powered omnichannel communication platform** serving **10K+ active businesses** with **5M+ messages processed monthly**.
 
@@ -165,7 +179,7 @@ A full-scale **AI-powered omnichannel communication platform** serving **10K+ ac
 | 📲 **Social Media Bots**           | Automated Facebook & Instagram bots for social commerce & CX                   |
 | 🌐 **Web Widget**                  | Embeddable omnichannel widget supporting voice, live chat & video              |
 
----
+### Other Projects
 
 - **QuickSmart.ai** 🚀
 - **iCalls.ai** 📞
@@ -175,25 +189,19 @@ A full-scale **AI-powered omnichannel communication platform** serving **10K+ ac
 
 ---
 
-## 🖥️ Workspace Setup 💻
+## 🖥️ Workspace Setup
 
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Intel Core i9](https://img.shields.io/badge/Intel_Core_i9-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![High Performance GPU](https://img.shields.io/badge/High_Performance_GPU-FF4D4D?style=for-the-badge&logo=nvidia&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
-## 📈 Stats Github Profile 📊
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=parthroy&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
-    <br />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=parthroy.parthroy" alt="visitors">
+    <img src="https://github-profile-trophy.vercel.app/?username=parthroy&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+    <br /><br />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=parthroy.parthroy" alt="visitors">
 </div>
-
-## 🔗 Links 🔗
-
-[![upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~019c81064069d2076f)
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/royparth/)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/parthroy)
-[![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@idea.to.implementation)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:royparth94@gmail.com)
