@@ -1,18 +1,16 @@
 # Hi there! 🚀 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
-
 ## 🚀 About Me
 
-### 🎓  Parth Roy - Expert Full Stack & AI Developer & Top Rated Freelancer on Upwork 🌟
+### 🎓 Parth Roy - End-to-End AI Product Developer 🧠 | 7+ Years Experience | Real-time Conversational AI & WebRTC Solutions 💬🌐 | Top Rated Freelancer on Upwork 🌟
 
-👨‍💻 I hold a Bachelor's degree in Computer Engineering (April 2020) and have established myself as a leading Full Stack Developer, specializing in advanced React applications. My expertise spans a wide array of cutting-edge technologies including Next.js ⚛️, Progressive Web Apps (PWA) 📱, GraphQL 💡, and Micro-Frontend Architecture 🏗️, all of which I mastered in 2021.
+👨‍💻 I hold a Bachelor's degree in Computer Engineering (April 2020) and have **7+ years of hands-on experience** building production-grade Full Stack and AI-powered products. I specialize in **Real-time Conversational AI**, **WebRTC Solutions**, and **End-to-End AI Product Development** — from ideation and architecture to deployment at scale. My expertise spans Next.js ⚛️, Progressive Web Apps (PWA) 📱, GraphQL 💡, and Micro-Frontend Architecture 🏗️.
 
-Furthermore, I have developed significant expertise in the field of Artificial Intelligence 🧠, with a focus on **AI Voice Agents** 🗣️, **AI Visual Agents** 👁️, **AI Chatbots** 💬, and **AI Model Development** (including STT, TTS, and LLM) 🤖. I am passionate about leveraging AI to create intelligent and innovative solutions that push boundaries! ✨
+🤖 I am deeply focused on **AI Voice Agents** 🗣️, **AI Visual Agents** 👁️, **AI Chatbots** 💬, **LLM Fine-tuning**, and **AI Model Development** (STT, TTS, LLM) — leveraging cutting-edge tools like LangChain, LiveKit, VAPI, ElevenLabs, Whisper, OpenAI, Anthropic Claude, and Groq to build intelligent, real-time conversational systems. ✨
 
-💼 As a Top Rated Freelancer on Upwork, I have built a stellar reputation for delivering high-quality, innovative solutions. My dedication to continuous learning and my passion for adopting new technologies, including the rapidly evolving AI landscape, have been instrumental in the growth and success of my freelancing career and my company. 📈
+💼 As a **Top Rated Freelancer on Upwork** and founder of **SCT Technology**, I have a stellar track record of delivering high-quality, innovative solutions to global clients across startups, mid-size businesses, and enterprises. My passion for continuous learning and rapidly evolving AI landscape drives the success of my company. 📈
 
 ✈️ Beyond coding, I have a keen interest in traveling 🌍, constantly seeking new experiences and inspiration from around the globe. 🗺️
-
 
 ## 🏅 Achievements
 
@@ -34,7 +32,6 @@ Furthermore, I have developed significant expertise in the field of Artificial I
 
 -   🥈 **1st Runner up at Coding Competition** in Master's App GTU techfest(2019)
 
-
 ## 🛠️ Skills
 
 ### Languages 🗣️
@@ -42,7 +39,6 @@ Furthermore, I have developed significant expertise in the field of Artificial I
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
 
 ### Front-End Development 🖥️✨
 
@@ -63,7 +59,6 @@ Furthermore, I have developed significant expertise in the field of Artificial I
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-
 ### Cross Platform Development 🌐
 
 ![reactnative](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&label=reactnative&message=reactnative)
@@ -71,22 +66,67 @@ Furthermore, I have developed significant expertise in the field of Artificial I
 ![electron](https://img.shields.io/badge/Electron-2C2E3B?style=for-the-badge&logo=electron&logoColor=white)
 
 ---
+
+### Backend Development 🔧⚙️
+
+![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![nestjs](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![fastapi](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![webrtc](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![websockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![socketio](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![rest-api](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![graphql](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
+
+---
+
+### Databases 🗄️
+
+![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![firebase](https://img.shields.io/badge/Firebase_Realtime_DB-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+### DevOps & Cloud ☁️🚀
+
+![aws](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![github-actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
+
 ### Artificial Intelligence & Machine Learning 🧠🤖
 
+![openai](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![gpt](https://img.shields.io/badge/GPT_4o-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![anthropic](https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![langchain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![langgraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![livekit](https://img.shields.io/badge/LiveKit-FF4F00?style=for-the-badge&logo=livekit&logoColor=white)
+![vapi](https://img.shields.io/badge/VAPI-5865F2?style=for-the-badge&logo=voice&logoColor=white)
+![elevenlabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
+![whisper](https://img.shields.io/badge/Whisper_STT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![huggingface](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![huggingface](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![nlp](https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![cv](https://img.shields.io/badge/Computer%20Vision-FF5722?style=for-the-badge&logo=opencv&logoColor=white)
-![openai](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![gpt](https://img.shields.io/badge/GPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
-### Backend as a Service (BaaS) ☁️
+
+### Deployment & Hosting ☁️
 
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
-![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
@@ -103,15 +143,35 @@ Furthermore, I have developed significant expertise in the field of Artificial I
 ![pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
+
 ## 🚀 Recent Projects
 
 Here are some of my recent projects where I've applied my expertise:
 
-* **QuickSmart.ai** 🚀
-* **iCalls.ai** 📞
-* **TalkingBot.ai** 💬
-* **Gita.iCalls.ai** 🙏
-* **CareTalk.ai** 💖
+### 🌐 [OmniKit.live](https://omnikit.live/) — Omnichannel Communication Platform
+
+> Built end-to-end by me | Powered by **SCT Technology**
+
+A full-scale **AI-powered omnichannel communication platform** serving **10K+ active businesses** with **5M+ messages processed monthly**.
+
+| Feature                            | Description                                                                    |
+| ---------------------------------- | ------------------------------------------------------------------------------ |
+| 🗣️ **AI Voice Agent**              | Conversational AI with human-like NLU for handling customer calls in real-time |
+| 👁️ **AI Visual Agent**             | Computer vision AI for image recognition & intelligent visual interactions     |
+| 💬 **WhatsApp Bot & Campaign**     | Automated bot + bulk messaging with rich media & delivery tracking             |
+| 📞 **Telephony AI Voice Campaign** | Outbound AI-powered voice campaigns for lead gen & surveys                     |
+| 📧 **Email Bot & Campaign**        | Intelligent email automation + marketing campaign analytics                    |
+| 📱 **SMS Campaign**                | High-converting global SMS marketing with instant delivery                     |
+| 📲 **Social Media Bots**           | Automated Facebook & Instagram bots for social commerce & CX                   |
+| 🌐 **Web Widget**                  | Embeddable omnichannel widget supporting voice, live chat & video              |
+
+---
+
+- **QuickSmart.ai** 🚀
+- **iCalls.ai** 📞
+- **TalkingBot.ai** 💬
+- **Gita.iCalls.ai** 🙏
+- **CareTalk.ai** 💖
 
 ---
 
@@ -121,8 +181,6 @@ Here are some of my recent projects where I've applied my expertise:
 ![Intel Core i9](https://img.shields.io/badge/Intel_Core_i9-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![High Performance GPU](https://img.shields.io/badge/High_Performance_GPU-FF4D4D?style=for-the-badge&logo=nvidia&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-
-
 
 ## 📈 Stats Github Profile 📊
 
