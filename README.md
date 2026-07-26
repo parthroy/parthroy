@@ -44,7 +44,9 @@ Off the keyboard, I travel. 🌍
 
 ### 🧑‍💼 AI Avatar — current focus
 
-A real-time AI avatar that runs on **both GPU and CPU**. Most talking-avatar stacks assume an accelerated instance; making it degrade to CPU means it deploys on commodity hardware and on-prem, where the customer's budget and data-residency rules actually live.
+Real-time conversational avatars that run on **both GPU and CPU**. The GPU path serves LAM-based avatar models on CUDA/PyTorch; the CPU path runs the same pipeline through **ONNX Runtime**. Most talking-avatar stacks assume an accelerated instance — degrading cleanly to CPU means it deploys on commodity hardware and on-prem, where the customer's budget and data-residency rules actually live.
+
+Around it: an avatar management API, a streaming TTS WebSocket service, and an embeddable, brandable avatar chat widget.
 
 ---
 
@@ -93,6 +95,10 @@ The layer everything else sits on — Asterisk/PBX provisioning, WebRTC media se
 ### 🧱 Web & Product Engineering
 
 The full-stack surface across client work — multi-tenant admin consoles and super-admin tooling, CRM frontends and backends, operator dashboards, embeddable widget kits, REST and webhook services, microservices, AWS Lambda functions, a centralised logging service, plus hotel-booking, cab-booking and e-commerce platforms. Mobile side: React Native bot SDK, Kotlin and Java Android apps.
+
+### 🧪 [Gemini Watermark Remover](https://watermark.omnikit.live/)
+
+Removes Gemini's visible watermark **losslessly** by inverting the alpha-compositing equation it was applied with, rather than approximating with a model. Runs entirely client-side — nothing is uploaded. Ships as a web app, CLI, and Node/browser SDK.
 
 ### 📦 Other Products
 
