@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Parth Roy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"></h1>
 
-<h3 align="center">Full Stack Developer and AI Engineer · 8+ Years Experience</h3>
+<h3 align="center">Full Stack Developer and AI Engineer · 7+ Years Experience</h3>
 
 <p align="center">
   Full Stack Product Engineering &nbsp;·&nbsp; Real-time Conversational AI &amp; WebRTC
